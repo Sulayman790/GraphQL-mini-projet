@@ -1,0 +1,30 @@
+{
+  "name": "graphql-mini-projet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sulayman790/GraphQL-mini-projet.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sulayman790/GraphQL-mini-projet/issues"
+  },
+  "homepage": "https://github.com/Sulayman790/GraphQL-mini-projet#readme",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
